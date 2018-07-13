@@ -21,7 +21,7 @@ dark: true
 ---
 Bonjour à tous!
 
-Aujourd'hui j'ai voulu tester [capifony](http://capifony.org/). C'est un petit programme basé sur [capistrano](https://github.com/capistrano/capistrano) qui permet de déployer facilement un projet symfony 1.4 ou 2 sur un serveur de production. Ce programme permet de gérer les releases de votre projet, de faire des rollback, de revenir sur unr version anciennement déployée, etc. Il est écrit en ruby par un développeur de l'agence web [KnpLabs](http://knplabs.fr/).
+Aujourd'hui j'ai voulu tester [capifony](http://capifony.org/). C'est un petit programme basé sur [capistrano](https://github.com/capistrano/capistrano) qui permet de déployer facilement un projet symfony 1.4 ou 2 sur un serveur de production. Ce programme permet de gérer les releases de votre projet, de faire des rollback, de revenir sur une version anciennement déployée, etc. Il est écrit en ruby par un développeur de l'agence web [KnpLabs](http://knplabs.fr/).
 
 Tout d'abord il faut installer la gem capifony :
 
